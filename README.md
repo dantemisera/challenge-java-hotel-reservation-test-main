@@ -1,18 +1,8 @@
-Nearly empty java project with a failing test!
-===
+# Projeto Syngenta Digital
+Projeto para desafio de admissão de estágio Syngenta Digital
 
-This has been created using gradle; to run the tests, just execute:
 
-```
-./gradlew test
-```
-
-or (on windows machines):
-
-```
-gradlew.bat test
-```
-
-**DO NOT change the names of the function (GetCheapestHotel) or of the file and folder it is in, changing it implies in disqualification.** 
-
-**After implementing your solution, it should pass the unit tests available.**
+## Descrições e comentários:
+- O código foi criado para ser o máximo desacoplado
+- Tive problemas na execução dos testes unitários, não consegui resolvê-los
+![image](https://user-images.githubusercontent.com/67974078/167317314-81536ffc-66f0-4cbc-b2dc-2c2a845076af.png)
