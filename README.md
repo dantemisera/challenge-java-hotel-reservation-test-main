@@ -1,9 +1,18 @@
-# Projeto desafio Syngenta Digital 
+Nearly empty java project with a failing test!
+===
 
-Projeto para desafio da Syngenta Digital
+This has been created using gradle; to run the tests, just execute:
 
-## Decisões e Comentários 
-- O código foi criado com o intuito de ser o mais desacoplado possível
-- Criação de classes para mais fácil leitura = manutenção do código
-- Tive problemas com a execução dos testes pelo windows:
-![ErrorTests](https://user-images.githubusercontent.com/67974078/167315425-676980da-377c-4231-827c-75509a4618f2.png)
+```
+./gradlew test
+```
+
+or (on windows machines):
+
+```
+gradlew.bat test
+```
+
+**DO NOT change the names of the function (GetCheapestHotel) or of the file and folder it is in, changing it implies in disqualification.** 
+
+**After implementing your solution, it should pass the unit tests available.**
